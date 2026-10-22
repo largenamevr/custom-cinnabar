@@ -1,4 +1,4 @@
-# Cinnabar
+# Cinnabar - custom
 
 > An independent, unofficial client compatible with Minecraft: Bedrock Edition. Not approved by
 > or associated with Mojang or Microsoft. Minecraft is a trademark of Microsoft Corporation.
